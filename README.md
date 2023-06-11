@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm André</h1>
 <h3 align="center">Experienced Developer with a demonstrated history of working in the information technology and services industry. Skilled in Graphics, Logo Design, Branding & Identity, PHP, and Typography. Strong engineering professional with a Bachelor focused in Graphic Design from Faculdade Maurício de Nassau.</h3>
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/aazev" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-blue?style=flat-round&logo=linkedin&logoColor=white" />
     </a>
