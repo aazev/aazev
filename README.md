@@ -1,18 +1,24 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<h3 align="center">Experienced Developer with a demonstrated history of working in the information technology and services industry. Skilled in Graphics, Logo Design, Branding & Identity, PHP, and Typography. Strong engineering professional with a Bachelor focused in Graphic Design from Faculdade Maurício de Nassau.</h3>
+<p align="center">
+    <i>
+        Experienced Developer with a demonstrated history of working in the information technology and services industry.
+        Skilled in Graphics, Logo Design, Branding & Identity, PHP, typescript, rust, and Typography.
+        Strong engineering professional with a Bachelor focused in Graphic Design from Faculdade Maurício de Nassau.
+    </i>
+</p>
 <p align="center">
     <a href="https://linkedin.com/in/aazev" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-blue?style=flat-round&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.behance.net/andreazev" target="_blank">
-        <img src="https://img.shields.io/badge/behance-blue?style=flat-round&logo=behance&logoColor=white" />
+        <img src="https://img.shields.io/badge/behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
     </a>
     <a href="https://twitter.com/andreazev" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-blue?style=flat-round&logo=twitter&logoColor=white" />
+        <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
 </p>
 
-<h3 align="left">Languages and Frameworks</h3>
+<h3 align="left">Programming Languages</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=white" />
@@ -23,6 +29,10 @@
     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white" />
     <img src="https://img.shields.io/badge/jestjs-black?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
+
+<h3 align="left">Frameworks</h3>
+<p align="left">
     <img src="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=black" />
     <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=black" />
@@ -54,5 +64,5 @@
 <p align="left" style="column-count:2; column-gap: 5rem;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aazev&theme=transparent" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazev&theme=transparent" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aazev&theme=transparent&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aazev&theme=transparent&utcOffset=-3" />
 </p>
