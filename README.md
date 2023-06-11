@@ -14,18 +14,18 @@
 
 <h3 align="left">Languages and Frameworks</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust" />
-    <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php" />
-    <img src="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel" />
-    <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" />
-    <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react" />
-    <img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=bash" />
-    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" />
-    <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3" />
-    <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5" />
-    <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass" />
-    <img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss" />
-    <img src="https://img.shields.io/badge/jestjs-black?style=for-the-badge&logo=jest" />
+    <img src="https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/jestjs-black?style=for-the-badge&logo=jest&logoColor=white" />
+    <img src="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=black" />
+    <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=black" />
 </p>
 
 <h3 align="left">Tools</h3>
