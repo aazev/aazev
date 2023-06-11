@@ -50,8 +50,8 @@
 <h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/codemonkey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codemonkey" /></a></p><br><br>
 
-<h3 align="left" style="column-count:2; column-gap: 5rem;">Stats</h3>
-<p align="left">
+<h3 align="left">Stats</h3>
+<p align="left" style="column-count:2; column-gap: 5rem;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aazev&theme=transparent" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazev&theme=transparent" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aazev&theme=transparent&utcOffset=8" />
