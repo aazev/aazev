@@ -62,7 +62,7 @@
 
 <h3 align="left">Stats</h3>
 <p align="left" style="column-count:2; column-gap: 5rem;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aazev&show_icons=true&locale=en&layout=compact&theme=transparent" alt="aazev" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aazev&show_icons=true&theme=transparent&hide_border=true" alt="aazev" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aazev&theme=transparent" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazev&theme=transparent" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aazev&theme=transparent&utcOffset=-3" />
