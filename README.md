@@ -44,15 +44,15 @@
     <img src="https://img.shields.io/badge/photoshop-gray?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
     <img src="https://img.shields.io/badge/xd-gray?style=for-the-badge&logo=adobe-xd&logoColor=white" />
     <img src="https://img.shields.io/badge/webpack-gray?style=for-the-badge&logo=webpack&logoColor=white" />
-    <img src="https://img.shields.io/badge/svelte-black?style=for-the-badge&logo=svelte" />
+    <img src="https://img.shields.io/badge/svelte-gray?style=for-the-badge&logo=svelte&logoColor=white" />
 </p>
 
 <h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/codemonkey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codemonkey" /></a></p><br><br>
 
-<h3 align="left">Stats</h3>
+<h3 align="left" style="column-count:2; column-gap: 5rem;">Stats</h3>
 <p align="left">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aazev&theme=transparent)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazev&theme=transparent)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aazev&theme=transparent&utcOffset=8)
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aazev&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazev&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aazev&theme=transparent&utcOffset=8" />
 </p>
