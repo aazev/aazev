@@ -20,41 +20,41 @@
 
 <h3 align="left">Programming Languages</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/jestjs-black?style=for-the-badge&logo=jest&logoColor=white" />
+    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust&logoColor=white" /></a>
+    <a href="https://php.net/" target="_blank"><img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=white" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+    <a href="https://python.org/" target="_blank"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" /></a>
+    <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Frameworks</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=black" />
-    <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=black" />
+    <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=black" /></a>
+    <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=black" /></a>
 </p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/azure-gray?style=for-the-badge&logo=azure-devops&logoColor=white" />
-    <img src="https://img.shields.io/badge/docker-gray?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/graphql-gray?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/nginx-gray?style=for-the-badge&logo=nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/rabbitmq-gray?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-    <img src="https://img.shields.io/badge/mariadb-gray?style=for-the-badge&logo=mariadb&logoColor=white" />
-    <img src="https://img.shields.io/badge/mysql-gray?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgresql-gray?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/mongodb-gray?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/illustrator-gray?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-    <img src="https://img.shields.io/badge/photoshop-gray?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-    <img src="https://img.shields.io/badge/xd-gray?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-    <img src="https://img.shields.io/badge/webpack-gray?style=for-the-badge&logo=webpack&logoColor=white" />
-    <img src="https://img.shields.io/badge/svelte-gray?style=for-the-badge&logo=svelte&logoColor=white" />
+    <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"><img src="https://img.shields.io/badge/azure-gray?style=for-the-badge&logo=azure-devops&logoColor=white" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-gray?style=for-the-badge&logo=docker&logoColor=white" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-gray?style=for-the-badge&logo=git&logoColor=white" /></a>
+    <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/graphql-gray?style=for-the-badge&logo=graphql&logoColor=white" /></a>
+    <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/nginx-gray?style=for-the-badge&logo=nginx&logoColor=white" /></a>
+    <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://img.shields.io/badge/rabbitmq-gray?style=for-the-badge&logo=rabbitmq&logoColor=white" /></a>
+    <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/mariadb-gray?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-gray?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/postgresql-gray?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-gray?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/illustrator-gray?style=for-the-badge&logo=adobe-illustrator&logoColor=white" /></a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/photoshop-gray?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /></a>
+    <a href="https://helpx.adobe.com/support/xd.html" target="_blank"><img src="https://img.shields.io/badge/xd-gray?style=for-the-badge&logo=adobe-xd&logoColor=white" /></a>
+    <a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/webpack-gray?style=for-the-badge&logo=webpack&logoColor=white" /></a>
+    <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/svelte-gray?style=for-the-badge&logo=svelte&logoColor=white" /></a>
+    <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/jestjs-gray?style=for-the-badge&logo=jest&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Support</h3>
