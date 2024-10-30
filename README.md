@@ -27,12 +27,12 @@
     <a href="https://python.org/" target="_blank"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=white" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white" /></a>
-    <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Frameworks</h3>
 <p align="left">
     <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/laravel-white?style=for-the-badge&logo=laravel&logoColor=black" /></a>
+    <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/nestjs-white?style=for-the-badge&logo=nestjs&logoColor=black" /></a>
     <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black" /></a>
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=black" /></a>
 </p>
@@ -55,6 +55,7 @@
     <a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/webpack-gray?style=for-the-badge&logo=webpack&logoColor=white" /></a>
     <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/svelte-gray?style=for-the-badge&logo=svelte&logoColor=white" /></a>
     <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/jestjs-gray?style=for-the-badge&logo=jest&logoColor=white" /></a>
+    <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/sass-gray?style=for-the-badge&logo=sass&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Support</h3>
@@ -66,3 +67,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aazev&theme=transparent" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aazev&theme=transparent&utcOffset=-3" />
 </p>
+
+[![André Azevedo profile views](https://u8views.com/api/v1/github/profiles/922316/views/day-week-month-total-count.svg)](https://u8views.com/github/aazev)
